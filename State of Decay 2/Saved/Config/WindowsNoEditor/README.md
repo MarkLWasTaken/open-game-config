@@ -8,3 +8,8 @@ Excluding the `sg.ResolutionQuality` option<br><br>
 1 = Medium<br>
 2 = High<br>
 3 = Ultra<br>
+<br>
+<br>
+All the settings that are not part of the default config are reffered from the following links:<br>
+<a href="https://www.reddit.com/r/StateOfDecay/comments/8ke2w8/state_of_decay_2_ultimate_ini_tweak_guide_fov/">Reddit</a><br>
+<a href="https://www.youtube.com/watch?v=ZDBwaaXv1Rs&ab_channel=Gameplayicu">YouTube</a><br>
