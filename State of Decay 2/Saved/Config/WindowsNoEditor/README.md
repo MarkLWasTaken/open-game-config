@@ -6,3 +6,5 @@ Excluding the `sg.ResolutionQuality` option<br><br>
 1 = Medium<br>
 2 = High<br>
 3 = Ultra<br>
+# Engine.ini #
+To prevent any custom strings made from being removed upon the game start, set this file to `read-only`.
