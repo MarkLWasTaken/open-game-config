@@ -1,4 +1,4 @@
-To prevent any custom strings made from being removed upon the game start, set the files to `read-only`.
+To prevent any custom strings made from being lost/removed upon the game start, set the files to `read-only`.
 
 # GameUserSettings.ini #
 Here are the following values identified within the game itself by group.
