@@ -8,4 +8,3 @@ Excluding the `sg.ResolutionQuality` option<br><br>
 1 = Medium<br>
 2 = High<br>
 3 = Ultra<br>
-# Engine.ini #
